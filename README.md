@@ -1,6 +1,6 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-I’m a student at the University of Toronto majoring in computer science.
+I’m a computer science student at the University of Toronto.
 
 <!-- <h2>Additional Information</h2> -->
 <p><a href="https://www.linkedin.com/in/lilyxmeng">https://www.linkedin.com/in/lilyxmeng</a>
